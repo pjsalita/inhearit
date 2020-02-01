@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css?family=Bowlby+One+SC&display=swap");
+
 * {
   box-sizing: border-box;
 }
@@ -142,7 +144,7 @@ footer a:hover {
   padding: 15%;
 }
 .splashtext span {
-  font-family: "Trajan Pro";
+  font-family: 'Bowlby One SC', cursive;
 }
 .splashtext strong {
   text-transform: uppercase;
